@@ -1,0 +1,8 @@
+#------------STIX-----------
+font.family:STIXGeneral
+mathtext.fontset: stix
+#---------------------------
+
+font.size:25
+figure.figsize: 4, 4
+figure.dpi:400
